@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Validate brazilian documents."
+name = "validate-docbr"
+optional = false
+python-versions = "*"
+version = "1.8.2"
+
+[metadata]
+content-hash = "b2a9d66276b0a4b8f6588081f920203483d1ceb9b221b80525e28f4cfd4a8e84"
+python-versions = "^3.8"
+
+[metadata.files]
+validate-docbr = [
+    {file = "validate_docbr-1.8.2-py3-none-any.whl", hash = "sha256:208287b8ec97e3dbc16fb8126c56f4e82d50b66f48e0cc262edc69d99da8a5fa"},
+]
